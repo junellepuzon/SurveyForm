@@ -159,6 +159,8 @@ input::-webkit-inner-spin-button {
   font-weight: 500;
   color: black;
   line-height: 1em;
+  padding-bottom: 10px;
+  padding-top: 15px;
 }
 
 .survey-form .title::before {
