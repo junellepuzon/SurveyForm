@@ -1,7 +1,7 @@
 ### ✨ [Survey Form (Click to see live version)](https://survey-form-jade.vercel.app)
 
 >> ###### Challenges:
->> - Responsiveness
+>> - Responsive Design
 >> - Form
 >> 
 ![Screenshot](image/screenshot.png)
